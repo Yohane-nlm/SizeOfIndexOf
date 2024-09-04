@@ -1,5 +1,5 @@
 # Description
-This script is used to calculate the total file size of a 'index of' page with multi threads.
+A python script to calculate the total file size of a 'index of' page with multi threads.
 
 # Usage
 `python SizeOfIndexOf.py -U <url> [-T <thread_num>]`
